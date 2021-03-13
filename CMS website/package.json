@@ -1,0 +1,16 @@
+{
+  "name": "cms-websit",
+  "version": "0.0.1",
+  "description": "Train my nodejs for upcoming payed project for 1 milion $",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "matejkrenek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "mongoose": "^5.12.0"
+  }
+}
